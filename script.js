@@ -25,7 +25,7 @@
 			
 		} else {
 
-		}		
+		}	
 	};
 
 	console.log(appData);
@@ -40,7 +40,7 @@
 		case appData.money_day > 1000:
 			console.log('Высокий уровень достатка');
 			break;
-	}
+	};
 
 
 
